@@ -1,0 +1,12 @@
+c:\users\itiro inazawa\documents\visual studio 2013\Projects\RandomChoices\RandomChoices\bin\Debug\RandomChoices.exe.config
+c:\users\itiro inazawa\documents\visual studio 2013\Projects\RandomChoices\RandomChoices\obj\Debug\RandomChoices.csprojResolveAssemblyReference.cache
+c:\users\itiro inazawa\documents\visual studio 2013\Projects\RandomChoices\RandomChoices\bin\Debug\RandomChoices.exe
+c:\users\itiro inazawa\documents\visual studio 2013\Projects\RandomChoices\RandomChoices\bin\Debug\RandomChoices.pdb
+c:\users\itiro inazawa\documents\visual studio 2013\Projects\RandomChoices\RandomChoices\obj\Debug\RandomChoices.exe
+c:\users\itiro inazawa\documents\visual studio 2013\Projects\RandomChoices\RandomChoices\obj\Debug\RandomChoices.pdb
+C:\Users\r.inazawa.araujo\Dropbox\RandomChoices\RandomChoices\bin\Debug\RandomChoices.exe.config
+C:\Users\r.inazawa.araujo\Dropbox\RandomChoices\RandomChoices\obj\Debug\RandomChoices.exe
+C:\Users\r.inazawa.araujo\Dropbox\RandomChoices\RandomChoices\obj\Debug\RandomChoices.pdb
+C:\Users\r.inazawa.araujo\Dropbox\RandomChoices\RandomChoices\bin\Debug\RandomChoices.exe
+C:\Users\r.inazawa.araujo\Dropbox\RandomChoices\RandomChoices\bin\Debug\RandomChoices.pdb
+C:\Users\r.inazawa.araujo\Dropbox\RandomChoices\RandomChoices\obj\Debug\RandomChoices.csprojResolveAssemblyReference.cache

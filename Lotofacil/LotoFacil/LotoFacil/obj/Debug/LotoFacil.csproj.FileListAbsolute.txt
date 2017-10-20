@@ -1,0 +1,6 @@
+C:\Users\r.inazawa.araujo\Dropbox\Lotofacil\LotoFacil\LotoFacil\bin\Debug\LotoFacil.exe.config
+C:\Users\r.inazawa.araujo\Dropbox\Lotofacil\LotoFacil\LotoFacil\bin\Debug\LotoFacil.exe
+C:\Users\r.inazawa.araujo\Dropbox\Lotofacil\LotoFacil\LotoFacil\bin\Debug\LotoFacil.pdb
+C:\Users\r.inazawa.araujo\Dropbox\Lotofacil\LotoFacil\LotoFacil\obj\Debug\LotoFacil.exe
+C:\Users\r.inazawa.araujo\Dropbox\Lotofacil\LotoFacil\LotoFacil\obj\Debug\LotoFacil.pdb
+C:\Users\r.inazawa.araujo\Dropbox\Lotofacil\LotoFacil\LotoFacil\obj\Debug\LotoFacil.csprojResolveAssemblyReference.cache
